@@ -1,6 +1,7 @@
 # New York - Bike Sharing
 
-<img src = "fotos/sky.jpg" width="800" height="200">
+
+<img src="fotos/sky.jpg?raw=true" width="800" height="200" />
 
 **TARGET**
 
@@ -13,7 +14,7 @@ It is divided into two Jupyter Notebooks:
 * *pd_SQL*: Collects the process in which we export the different DataFrames to SQL and create a relationship between all of them.
 
 ### ETL_Cleaning
-<img src = "FOTOS/bici2.jpg" width="800" height="200">
+<img src = "FOTOS/bici2.jpg?raw=true" width="800" height="200">
 
 First, we downloaded a dataset from [Kaggle.](https://www.kaggle.com/ongks1986 new-york-city-bike-sharing-2019) consisting of 12 CSVs containing bike sharing data in New York City during 2019.
 Subsequently, to complement this information, we have  performed Web Scraping from two different sources.
@@ -23,7 +24,7 @@ for pedestrians and cyclists for social distancing during the COVID-19 crisis.
 
 On the other hand, with data from [Wikipedia.](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City), we have created another DataFrame with demographic data of the different neighborhoods of New York.
 
-<img src = "FOTOS/py.jpg" width="50" height="50">
+<img src = "FOTOS/py.jpg?raw=true" width="50" height="50">
 
 All the functions used in this process are located in the cleaning3 file inside the src folder.
 
@@ -33,7 +34,7 @@ With the data already analyzed, we export the different DataFrames to SQL and un
 
 **CONCLUSIONS**
 
-<img src = "fotos/wall.jpg" width="800" height="200">
+<img src = "fotos/wall.jpg?raw=true" width="800" height="200">
 
 
 The idea is to contrast whether those neighborhoods where bike sharing was most used during 2019 were the ones where pedestrianization was most enhanced during the covid 19 crisis.
