@@ -14,7 +14,7 @@ It is divided into two Jupyter Notebooks:
 * *pd_SQL*: Collects the process in which we export the different DataFrames to SQL and create a relationship between all of them.
 
 ### ETL_Cleaning
-<img src = "FOTOS/bici2.jpg?raw=true" width="800" height="200">
+<img src = "FOTOS/ff.jpg?raw=true" width="800" height="200">
 
 First, we downloaded a dataset from [Kaggle.](https://www.kaggle.com/ongks1986 new-york-city-bike-sharing-2019) consisting of 12 CSVs containing bike sharing data in New York City during 2019.
 Subsequently, to complement this information, we have  performed Web Scraping from two different sources.
