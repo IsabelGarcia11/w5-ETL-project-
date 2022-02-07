@@ -29,14 +29,6 @@ def generateBaseMap(default_location=[40.751873, -73.977706], default_zoom_start
     
     return base_map
 
-arr=[]
-for i in FINAL:
-    for j in i:
-        if j!='Y' and j!='Next'and j!='Previous'and 'Showing'not in j and 'Cool' not in j and j not in columnas and 'Fetching' not in j:
-            arr.append(j)
-
-
-
 
 def split(arr, size):
      arrs = []

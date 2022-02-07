@@ -1,6 +1,6 @@
 # New York - Bike Sharing
 
-<img src = "fotos/nyc4.jpg" width="800" height="200">
+<img src = "fotos/sky.jpg" width="800" height="200">
 
 **TARGET**
 
